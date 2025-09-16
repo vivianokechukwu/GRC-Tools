@@ -1,4 +1,4 @@
-<h1>Strategic GRC Tool Evaluation for Healthcare Organization</h1>
+<h1>Strategic Evaluation of GRC Tools for Healthcare Organization</h1>
 
 <h2>Description</h2>
 
